@@ -1,0 +1,2 @@
+add_lunch_combo mk_y550-userdebug
+add_lunch_combo mk_y550-eng
